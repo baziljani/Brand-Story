@@ -100,7 +100,7 @@ General Styles
     background-color: #3a5b9f;
 }
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/assets/Hero.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/Hero.jpg') center/cover no-repeat;
     color: white;
     padding: 100px 0;
     text-align: center;
